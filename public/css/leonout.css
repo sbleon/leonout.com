@@ -1,0 +1,25 @@
+h1 {
+  font-family: 'Rock Salt', arial, serif; 
+  font-size: 30px;
+}
+
+.header {
+  text-align: center;
+  padding-top: 50px;
+}
+
+a, a:visited {
+  color: #00e;
+}
+
+.buttonlink {
+  text-align: center;
+}
+
+.buttonlink a {
+  text-decoration: none;
+}
+
+.buttonlink a:hover {
+  text-decoration: underline;
+}
