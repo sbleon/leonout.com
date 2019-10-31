@@ -1,11 +1,12 @@
-h1 {
+.handwritten {
   font-family: 'Rock Salt', arial, serif; 
   font-size: 30px;
 }
 
-.header {
+header {
   text-align: center;
   padding-top: 50px;
+  padding-bottom: 25px;
 }
 
 a, a:visited {
@@ -17,6 +18,8 @@ a, a:visited {
 }
 
 .buttonlink a {
+  display: block;
+  padding: 15px;
   text-decoration: none;
 }
 
